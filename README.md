@@ -1,5 +1,6 @@
-Echoes of Adventure
--by Mike Li, Anastasia Schleicher, Benjamin Wührer, Liam Hermann, Max Gundermann, Renée Florence Geburzky
+# Echoes of Adventure
+by Mike Li, Anastasia Schleicher, Benjamin Wührer, Liam Hermann, Max Gundermann, Renée Florence Geburzky
+
 ---------------------------
 # IMPORTANT:
 This is only a showcase of my contributions (mainly code) and therefore, this repository has only a fraction of the full project. The full project is in a private repository, whose access can and are only given by me personally. This is done for 
