@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e2e293cc703be44aa5e852b7c617d68, type: 3}
+  m_Name: GeneralPrefabConfigurations
+  m_EditorClassIdentifier: 
+  <FireEcho>k__BackingField: {fileID: 2786371690953755493, guid: 94a4483ba10f72245a612f9c96824f51, type: 3}
+  <PlantEcho>k__BackingField: {fileID: 3806422371668958180, guid: b008dcd5616cccb4388c348a100234cb, type: 3}
+  <StoneEcho>k__BackingField: {fileID: 0}
+  <LandingVFX>k__BackingField: {fileID: 1465663609570799798, guid: ded8ff0fc25784d4fa9882ab7954e833, type: 3}
+  <LandingVFXAirtimeCurve>k__BackingField:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.045654297
+      value: 0.1
+      inSlope: 0.0047440664
+      outSlope: 0.0047440664
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.057056908
+    - serializedVersion: 3
+      time: 40
+      value: 0.5
+      inSlope: 0.027850294
+      outSlope: 0.027850294
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.044172637
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

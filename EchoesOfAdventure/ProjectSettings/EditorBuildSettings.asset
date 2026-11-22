@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/PersistentScene.unity
+    guid: 5da4d92fae1ee894e831d241c59eae9c
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/TestScene/TestScene-Player.unity
+    guid: 226a45a6e829732438c77ed14cf9d774
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/TestScene/TestScene-Lighting.unity
+    guid: ca2aad432b8f9914f8843ba279410af6
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/TestScene/TestScene-Interactables.unity
+    guid: eae787276eb715b46b6218f61bad00d8
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/TestScene/TestScene-Environment.unity
+    guid: dce0eefe560eaf74f8a49d9a4d783672
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/TestScene/TestScene-Collisions.unity
+    guid: 2375ca97625bae74cb6304c70128c6db
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/TestScene/TestScene-Camera.unity
+    guid: 4099baf8262682b4596ab24660807073
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level1/Level1-Camera.unity
+    guid: d48381db711003b4ea8345a4135dce57
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level1/Level1-Collisions.unity
+    guid: 2e0c5760c5665964f84c68435113f3e2
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level1/Level1-Environment.unity
+    guid: 5bae7c164f183e944b8b2cbaf961b0cd
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level1/Level1-Interactables.unity
+    guid: 01e44a0d7b6ed7c478c7bf63fc4f70fa
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level1/Level1-Lighting.unity
+    guid: ebc27a3f59f06a3469fdd7cc109565f9
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level1/Level1-Player.unity
+    guid: 62111da24114cc645bc898df569c088f
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level2/Level2-Player.unity
+    guid: eb580f707d388de46b6b55ac3ef9608f
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level2/Level2-Lighting.unity
+    guid: e9f579f2ba4187e4b95d96609acb7820
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level2/Level2-Interactables.unity
+    guid: daaa611f2faa92f4a91af2de09748243
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level2/Level2-Environment.unity
+    guid: 8b47894360f1edd4c95bd6e76f187e32
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level2/Level2-Collisions.unity
+    guid: ca2ae11efdbcc5447958c3774d6fc0e0
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level2/Level2-Camera.unity
+    guid: 4bd29369fc4a1804faf692d8eec118a1
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level3/Level3-Player.unity
+    guid: 1dcd9ddf2ecc9464d8307476a9f82835
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level3/Level3-Lighting.unity
+    guid: 2db817a6e9a56294fbb9a3a5bef9ff19
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level3/Level3-Interactables.unity
+    guid: dac7adfbda527584c91bcf156498f3e3
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level3/Level3-Environment.unity
+    guid: 0f6e20f578be4744291ae3a88994cf73
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level3/Level3-Collisions.unity
+    guid: 2ec449767973502408417c31034355f7
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level3/Level3-Camera.unity
+    guid: ebfd4221230e8214cbfad648f9e4bb33
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level5/Level5-Player.unity
+    guid: 8625ba21a7ee0034fbe8b706d214907d
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level5/Level5-Lighting.unity
+    guid: 9d973f83dab3e3347916a87628f7fefe
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level5/Level5-Interactables.unity
+    guid: 5c5cda8aeaf35a04bb3cd84a1007dc30
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level5/Level5-Environment.unity
+    guid: 0671b503592eea24c9e7930b8c3cd712
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level5/Level5-Collisions.unity
+    guid: 65b5b10445031ef428ec4023907e8f78
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level5/Level5-Camera.unity
+    guid: 41468512f0b138a4da848afd03cfac64
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level7/Level7-Player.unity
+    guid: e9536738ddee10e488b13eff34467518
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level7/Level7-Lighting.unity
+    guid: 46fd7ee14c16ac048aa9e94124dce015
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level7/Level7-Interactables.unity
+    guid: 33b149c4774422d47aba2e8d2fe372ad
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level7/Level7-Environment.unity
+    guid: 7feb4ed8574c0b84b8f513c0a6ff02b2
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level7/Level7-Collisions.unity
+    guid: bfb05db246129904e8f7baf67bac3f5b
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level7/Level7-Camera.unity
+    guid: 595ed57ab94726647a06142a114d768c
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level8/Level8-Player.unity
+    guid: 356e667b3c1ac174da23e2c4b4f134de
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level8/Level8-Lighting.unity
+    guid: fe6bd3aff52556b459917308f1cbacc2
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level8/Level8-Interactables.unity
+    guid: 9f8082fa105703c4d8ed1acf09f1ad55
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level8/Level8-Environment.unity
+    guid: e6bf1383cdecc9747b08b7966382aff2
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level8/Level8-Collisions.unity
+    guid: f1612e52a9d0cde43b6e2ead5cdf5c65
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level8/Level8-Camera.unity
+    guid: e95d7d10b39da7c43943293fab01153e
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level9/Level9-Player.unity
+    guid: 35e8fa3771c98684a80d9f902d1dfb98
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level9/Level9-Lighting.unity
+    guid: afb85fdc27a9e7f4abe0eeed94bada75
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level9/Level9-Interactables.unity
+    guid: 548f69c436e8bba4ba699749b3963a80
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level9/Level9-Environment.unity
+    guid: b2b38d3461af74d479a85d55646a221b
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level9/Level9-Collisions.unity
+    guid: c7d5c19ef714b984bb4949e15c6434ca
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level9/Level9-Camera.unity
+    guid: 115d9b4c3491b914abc77c8ed2250eb1
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level10/Level10-Player.unity
+    guid: 046004711ccd88b4c8ed76653826ed9f
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level10/Level10-Lighting.unity
+    guid: cf382922842248544a7e6d03396b59fb
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level10/Level10-Interactables.unity
+    guid: 2d05019adcba1ae4cb51c3d1594976b0
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level10/Level10-Environment.unity
+    guid: 64607468dbd8eb0439a3404245f839b3
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level10/Level10-Collisions.unity
+    guid: 6c8e0992a66366149acd3bb35c566b58
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Levels/Level10/Level10-Camera.unity
+    guid: e8728c7126154df44b74c8f28211ec80
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/UI/IntroTestScene.unity
+    guid: 235457fea4b17f14fbf4aad97152c78b
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/UI/MainMenu.unity
+    guid: c34d48fb8f4a0f641a4447227f77a703
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 9051d5b8f1db54a4383879d00897223f, type: 3}
+  m_UseUCBPForAssetBundles: 0

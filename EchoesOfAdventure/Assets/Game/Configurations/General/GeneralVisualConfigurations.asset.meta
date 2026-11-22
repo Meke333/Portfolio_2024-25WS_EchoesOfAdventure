@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:EchoesOfAdventure/Assets/Game/Configurations/General/GeneralVisualConfigurations.asset.meta
+guid: 4ff8f2156c10f664ca574eacece80221
+NativeFormatImporter:
+========
+guid: f7fa6d3cdef385949a47eae03fe4f8fb
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> v0.3/feature/character-interactions:EchoesOfAdventure/Assets/Game/Configurations/Interactable.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

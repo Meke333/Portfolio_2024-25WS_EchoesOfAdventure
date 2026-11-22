@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a5afc5419e36674ba03189c813f12a0, type: 3}
+  m_Name: PlayerConfiguration
+  m_EditorClassIdentifier: 
+  <FireCharacterPrefab>k__BackingField: {fileID: 6083949695615336189, guid: 6950f7bc38a1792489cb4b3ed06b1929, type: 3}
+  <PlantCharacterPrefab>k__BackingField: {fileID: 0}
+  <StoneCharacterPrefab>k__BackingField: {fileID: 0}
+  <FireBall>k__BackingField: {fileID: 0}
+  <FireEcho>k__BackingField: {fileID: 0}
+  <PlantEcho>k__BackingField: {fileID: 0}
+  <StoneEcho>k__BackingField: {fileID: 0}
+  <SnapInput>k__BackingField: 1
